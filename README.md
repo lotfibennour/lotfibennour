@@ -17,7 +17,8 @@ Software Engineer with over 6 years of experience specializing in web developmen
 -   **Monitoring and Logging:**  ELK Stack (Elasticsearch, Logstash, Kibana), Prometheus/VictoriaMetrics, Loki, Grafana
 -   **Cloud Platforms:**  Amazon Web Services (AWS) - Lambda, EC2, ECS, CICD Pipeline
 -   **Scripting:**  Python, Bash
--   **Frameworks & Libraries** Django, Flask, Express, Laravel
+-   **Frameworks & Libraries:** Django, Flask, Express, Laravel
+-   **Programming Languages:** PHP, Python, JS
 
 ## Work Experience:
 
