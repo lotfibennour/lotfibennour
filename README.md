@@ -1,5 +1,5 @@
 
-👋 Hi, I'm Lotfi Bennour, a Junior DevOps Engineer based in Lorient, France.
+👋 Hi, I'm Lotfi Bennour, a Software Engineer | DevOps Engineer | FullStack Development based in Lorient, France.
 
 ## Summary:
 
