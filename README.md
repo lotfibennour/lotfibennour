@@ -67,6 +67,7 @@ Software Engineer with over 6 years of experience specializing in web developmen
 
 [](https://github.com/lotfibennour#certifications)
 
+-   IBM Back-End Development Professional Certificate - August 2024
 -   IBM Applied DevOps Engineering Professional Certificate - July 2024
 -   IBM DevOps and Software Engineering Professional Certificate - July 2024
 -   DevOps on AWS Specialization (Amazon Web Services) - July 2024
