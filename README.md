@@ -5,7 +5,7 @@
 
 [](https://github.com/lotfibennour#summary)
 
-Highly motivated and results-oriented Junior DevOps Engineer with a strong foundation in automation, infrastructure management, and CI/CD pipelines. Eager to leverage Python backend development expertise to contribute to a fast-paced DevOps environment. Possesses a passion for streamlining development processes and improving software delivery efficiency.
+Software Engineer with over 6 years of experience specializing in web development and DevOps. Skilled in PHP, Python, JS, and frameworks like Flask, Django, ExpressJS and Laravel. Recently developed strong foundational skills in CI/CD pipelines using Github Actions, Jenkins, and Tektons, containerization with Docker and Kubernetes, Infrastructure as Code (IaC) with Terraform and cloud platforms including AWS, GCP and IBM Cloud.
 
 ## Skills:
 
